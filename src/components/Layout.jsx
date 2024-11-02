@@ -31,7 +31,7 @@ export default function Layout(props) {
 
     const footer = (
         <footer>
-               <p><span className="text-gradient">Caffiend</span> was made by <a target="_blank">Sawaiz Khan</a>using the <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a> design library.Check out the project on <a target="_black" href="https://www.github.com/jamezmca/reactjs-full-course">GitHub</a>!</p>
+               <p><span className="text-gradient">Caffiend</span> was made by <a target="_blank">Sawaiz Khan</a>using the <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a> design library.Check out the project on <a target="_black" href="https://github.com/SAWAIZ2003/Caffeine">GitHub</a>!</p>
         </footer>
     )
 
